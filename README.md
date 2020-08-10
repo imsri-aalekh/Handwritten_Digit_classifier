@@ -1,4 +1,4 @@
-#MNIST Hand Written Digit classifier
+**MNIST Hand Written Digit classifier**
 
 This is a multiclass(more specifically 10 class) classifiaction problem.
 
